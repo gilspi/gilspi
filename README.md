@@ -17,7 +17,7 @@
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/timocruz)
 
 ### Stats:
-[![Gilspi's GitHub stats](https://github-readme-stats.vercel.app/api?username=gilspi&hide=contribs,prs&count_private=true&show_icons=true&theme=merko)](https://github.com/gilspi)
+[![Gilspi's GitHub stats](https://github-readme-stats.vercel.app/api?username=gilspi&hide=contribs,prs&include_all_commits=true&show_icons=true&theme=merko)](https://github.com/gilspi)
 
 ### Cards:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gilspi&layout=compact)](https://github.com/gilspi)
