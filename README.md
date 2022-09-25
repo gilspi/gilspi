@@ -1,4 +1,4 @@
-[![Header](https://github.com/gilspi/gilspi/blob/master/assets/header.gif)(https://www.instagram.com/timocrus/)]
+[![Header](https://github.com/gilspi/gilspi/blob/master/assets/header.png)(https://www.instagram.com/timocrus/)]
 
 About Me
 
