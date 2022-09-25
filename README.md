@@ -18,4 +18,4 @@
 
 ### Stats:
 [![Gilspi's GitHub stats](https://github-readme-stats.vercel.app/api?username=gilspi&hide=contribs,prs&count_private=true&show_icons=true&theme=merko)](https://github.com/gilspi/js-training-project)
-[![Gilspi's GitHub stats](https://github-readme-stats.vercel.app/api?username=gilspi&hide=contribs,prs&count_private=true&show_icons=true&theme=merko)](https://github.com/gilspi/django_training_website)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gilspi&layout=compact)](https://github.com/gilspi)
