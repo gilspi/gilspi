@@ -1,6 +1,6 @@
 [![Header](https://github.com/gilspi/gilspi/blob/master/assets/header.png)(https://www.instagram.com/timocrus/)]
 
-About Me
+## I'm a Python and Java Script developer. Pay for knowledge of English.
 
 Latest Project
 
