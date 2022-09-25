@@ -1,4 +1,4 @@
-[![Header](https://github.com/gilspi/gilspi/blob/master/assets/header.png)(https://www.instagram.com/timocrus/)]
+[![Header](https://github.com/gilspi/gilspi/blob/master/assets/header.png)](https://www.instagram.com/timocrus/)
 
 ## I'm a Python and Java Script developer, and have some projects with C++. Pay for knowledge of English.
 
